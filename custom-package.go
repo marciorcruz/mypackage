@@ -1,6 +1,8 @@
 package custompackage
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func AbiERC() {
 	fmt.Println("Teste Package")
